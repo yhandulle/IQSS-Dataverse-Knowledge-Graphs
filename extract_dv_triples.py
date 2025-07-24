@@ -34,7 +34,6 @@ def old_extract_json_keywords(output: str):
         if match:
             raw = match.group(0)
             raw = raw.replace(";", ",")
-            # Remove trailing junk after the closing bracket
             cleaned = raw.split("]")[0] + "]"
             try:
                 return json.loads(cleaned)
@@ -48,7 +47,7 @@ ds = load_dataset("rtreacy/dv_keywords_desc_full", split="test")
 LLAMA_CLI_PATH = "/Users/yh/IQSS/llama.cpp/build/bin/llama-cli"
 GGUF_MODEL_PATH = "/Users/yh/IQSS/models/llama32-3B-mig-en-es-full-Q4_K_M.gguf"
 
-N = 2
+N = 12
 print(f"Running on {N} samples from the dataset...\n")
 
 for i in range(N):
