@@ -18,7 +18,7 @@ conda activate cuda
 pip3 install accelerate peft bitsandbytes transformers trl
 pip install huggingface-hub wandb
 
-2.0 go to huggingface an create a write token, save it or you will lose it
+2.0 go to huggingface and create a write token, save it or you will lose it
 ==========================================================================
 
 3.0 go back to fasrc cluster and do 
@@ -76,5 +76,5 @@ cross your fingers, it can take a lot of time and still fail
 If this works, you can run my script.
 
 An alternative quick way is to get rid of the CUDA and just pip install llama-cpp-python.
-You'll get the cpu versionm inference will be much slower but still working. Hopefully.
+You'll get the cpu version. Inference will be much slower but still working. Hopefully.
 
