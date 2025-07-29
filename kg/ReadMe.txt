@@ -71,7 +71,7 @@ Try this:
 
     CMAKE_ARGS="-DGGML_CUDA=on" pip install llama-cpp-python
 
-cross your fingers, it can takes a lot of time and still fail
+cross your fingers, it can take a lot of time and still fail
 
 If this works, you can run my script.
 
