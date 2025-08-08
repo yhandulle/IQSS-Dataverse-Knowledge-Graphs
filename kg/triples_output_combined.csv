@@ -1,0 +1,21 @@
+pid,subject,predicate,object,schema
+doi:10.7910/DVN/26448,U.S. House Primary Election Results (1956-2010),about,Social Sciences,schema.org
+doi:10.7910/DVN/26448,U.S. House Primary Election Results (1956-2010),keyword,elections,schema.org
+doi:10.7910/DVN/26448,U.S. House Primary Election Results (1956-2010),keyword,primary elections,schema.org
+doi:10.7910/DVN/26448,U.S. House Primary Election Results (1956-2010),keyword,US House,schema.org
+doi:10.7910/DVN/0EGYWY,The CEPS EurLex dataset: 142.036 EU laws from 1952-2019 with full text and 22 variables,about,Computer and Information Science,schema.org
+doi:10.7910/DVN/0EGYWY,The CEPS EurLex dataset: 142.036 EU laws from 1952-2019 with full text and 22 variables,keyword,European Union,schema.org
+doi:10.7910/DVN/0EGYWY,The CEPS EurLex dataset: 142.036 EU laws from 1952-2019 with full text and 22 variables,keyword,Law,schema.org
+doi:10.7910/DVN/0EGYWY,The CEPS EurLex dataset: 142.036 EU laws from 1952-2019 with full text and 22 variables,keyword,Text Analysis,schema.org
+doi:10.7910/DVN/0EGYWY,The CEPS EurLex dataset: 142.036 EU laws from 1952-2019 with full text and 22 variables,keyword,Text-As-Data,schema.org
+doi:10.7910/DVN/0EGYWY,The CEPS EurLex dataset: 142.036 EU laws from 1952-2019 with full text and 22 variables,variableMeasured,22 variables,schema.org
+doi:10.7910/DVN/0EGYWY,The CEPS EurLex dataset: 142.036 EU laws from 1952-2019 with full text and 22 variables,temporalCoverage,1952-2019,schema.org
+doi:10.7910/DVN/0EGYWY,The CEPS EurLex dataset: 142.036 EU laws from 1952-2019 with full text and 22 variables,spatialCoverage,European Union,schema.org
+doi:10.7910/DVN/VFXISQ,Supplementary data for a horizon scan for temperate pastoral weed science – a New Zealand perspective.,about,Agricultural Sciences,schema.org
+doi:10.7910/DVN/VFXISQ,Supplementary data for a horizon scan for temperate pastoral weed science – a New Zealand perspective.,keyword,climate-change,schema.org
+doi:10.7910/DVN/VFXISQ,Supplementary data for a horizon scan for temperate pastoral weed science – a New Zealand perspective.,keyword,grazing,schema.org
+doi:10.7910/DVN/VFXISQ,Supplementary data for a horizon scan for temperate pastoral weed science – a New Zealand perspective.,keyword,research strategy,schema.org
+doi:10.7910/DVN/VFXISQ,Supplementary data for a horizon scan for temperate pastoral weed science – a New Zealand perspective.,keyword,white-paper,schema.org
+doi:10.7910/DVN/VFXISQ,Supplementary data for a horizon scan for temperate pastoral weed science – a New Zealand perspective.,variableMeasured,temperate pastoral weed research and innovation,schema.org
+doi:10.7910/DVN/VFXISQ,Supplementary data for a horizon scan for temperate pastoral weed science – a New Zealand perspective.,temporalCoverage,2020-01-01T00:00:00Z/2020-12-31T23:59:59Z,schema.org
+doi:10.7910/DVN/VFXISQ,Supplementary data for a horizon scan for temperate pastoral weed science – a New Zealand perspective.,spatialCoverage,New Zealand,schema.org
